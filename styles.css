@@ -1,0 +1,7 @@
+#response {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+}
