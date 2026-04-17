@@ -1,7 +1,8 @@
 #response {
     font-family: sans-serif;
     display: flex;
+    min-height: 100vh;
     justify-content: center;
     align-items: center;
-    font-size: 5em;
+    font-size: 2em;
 }
