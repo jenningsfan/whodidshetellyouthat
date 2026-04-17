@@ -1,8 +1,16 @@
-#response {
+/* #response {
     font-family: sans-serif;
     display: flex;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    font-size: 2em;
-}
+    font-size: 7.5em;
+} */
+
+
+    h1 {
+      text-align: center;
+      font-size: 80px;
+      font-family: Helvetica, sans-serif;
+    }
+    
